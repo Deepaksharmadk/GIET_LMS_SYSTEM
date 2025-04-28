@@ -139,7 +139,7 @@ const About = () => {
                 <h1 className="mt-8 text-center text-4xl font-semibold">
                     Reviews from other learners
                 </h1>
-{/*                 <ReviewSlider /> */}
+
             </div>
             <Footer />
         </div>
